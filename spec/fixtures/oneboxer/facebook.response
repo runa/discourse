@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK                                                         
+Access-Control-Allow-Origin: *
+Cache-Control: private, no-cache, no-store, must-revalidate
+Content-Type: application/json; charset=UTF-8
+ETag: "0e5049ec62f6471abcdb79ac0333ef691e48e300"
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Pragma: no-cache
+X-FB-Rev: 869646
+X-FB-Debug: UHGex33z4e8o80zsfE4jqwgcRE9g2dRqr4idlhGkNKc=
+Date: Tue, 09 Jul 2013 12:43:09 GMT
+Connection: keep-alive
+Content-Length: 715
+
+{"about":"Ricas arepas colombianas de puro ma\u00edz, elaboraci\u00f3n artesanal.","category":"Food\/beverages","is_published":true,"location":{"street":"","city":"Buenos Aires","state":"","country":"Argentina","zip":""},"phone":"4345-4567","products":"Arepas medianas amarillas, paquete x 5 unidades.\nArepas medianas blancas, paquete x 5 unidades. ","talking_about_count":15,"username":"ArepasLaJuanita","were_here_count":0,"id":"517042601686987","name":"Arepas La Juanita","link":"http:\/\/www.facebook.com\/ArepasLaJuanita","likes":94,"cover":{"cover_id":541800915877822,"source":"http:\/\/sphotos-c.ak.fbcdn.net\/hphotos-ak-prn1\/s720x720\/1010918_541800915877822_1282590823_n.jpg","offset_y":38,"offset_x":0}}
